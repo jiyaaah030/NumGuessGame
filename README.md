@@ -33,7 +33,7 @@ This project was created to practice basic C++ concepts like:
 
 ## 🚀 How to Run the Game
 
-### 1️⃣ Compile the Program
+###  Compile the Program
 
 ```bash
 g++ game.cpp -o ouput
